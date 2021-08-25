@@ -34,4 +34,12 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-<br/>
+
+## 👨‍💻 Favorite collaborative and personal projects:
+
+- Open Source Database Management System using Python: **[TytusDB](https://github.com/tytusdb/tytusdb.git)**.
+- Covid data analyzer using Javascript and Golang: **[OSP1](https://github.com/Parobacal/SO1A_G30_Proyecto2.git)**.
+- My first time with React: **[CPM](https://github.com/Parobacal/CPM-Web-App.git)**.
+- My first time using Angular: **[Sales System](https://github.com/Parobacal/MIA-Proyecto2.git)**.
+- Thompson's construction and lock algorithm graphic representation to create NFA and DFA using C#: **[Graphic DFA](https://github.com/Parobacal/-OCL1-Proyecto1.git)**.
+- Java compiler to detect copies between two files using Typescript and NodeJS: **[Java copies detector](https://github.com/Parobacal/OCL1Proyecto2.git)**
