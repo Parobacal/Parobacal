@@ -35,6 +35,8 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=6ee4dbdcf11a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ## 👨‍💻 Favorite collaborative and personal projects:
 
 - Open Source Database Management System using Python: **[TytusDB](https://github.com/tytusdb/tytusdb.git)**.
