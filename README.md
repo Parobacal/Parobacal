@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pablo</h1>
 <h3 align="center">I'm a Science and Systems Engineering student from Guatemala.</h3>
-
+<p align="center"> 
+<a href="https://www.linkedin.com/in/parobacal/" target="_blank"><img alt="aakarsh.me" width="22px" src="https://logo.clearbit.com/linkedin.com?size=80" /></a>
+<a href="https://twitter.com/parobacal" target="_blank"><img alt="aakarsh.me" width="22px" src="https://logo.clearbit.com/twitter.com?size=80" /></a>
+</p>
 
 ## 🙋‍♂️ About Me
 
@@ -15,7 +18,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://golang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
@@ -35,12 +38,11 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=6ee4dbdcf11a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parobacal&layout=compact)](https://github.com/Parobacal/github-readme-stats)
 
 ## 👨‍💻 Favorite collaborative and personal projects:
 
 - Open Source Database Management System using Python: **[TytusDB](https://github.com/tytusdb/tytusdb.git)**.
-- Covid data analyzer using Javascript and Golang: **[OSP1](https://github.com/Parobacal/SO1A_G30_Proyecto2.git)**.
 - My first time with React: **[CPM](https://github.com/Parobacal/CPM-Web-App.git)**.
 - My first time using Angular: **[Sales System](https://github.com/Parobacal/MIA-Proyecto2.git)**.
 - Thompson's construction and lock algorithm graphic representation to create NFA and DFA using C#: **[Graphic DFA](https://github.com/Parobacal/-OCL1-Proyecto1.git)**.
