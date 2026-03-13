@@ -1,10 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pablo</h1>
+<h1 align="center">Hi, I'm Pablo</h1>
 <h3 align="center">I'm a Science and Systems Engineering student from Guatemala.</h3>
-<p align="center"> 
-<a href="https://www.linkedin.com/in/parobacal/" target="_blank"><img alt="aakarsh.me" width="22px" src="https://logo.clearbit.com/linkedin.com?size=80" /></a>
-<a href="https://twitter.com/parobacal" target="_blank"><img alt="aakarsh.me" width="22px" src="https://logo.clearbit.com/twitter.com?size=80" /></a>
-</p>
 
 ## 🙋‍♂️ About Me
 
